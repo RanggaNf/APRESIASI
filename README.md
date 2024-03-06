@@ -1,6 +1,6 @@
 # APRESIASI: AI-powered Traffic Prediction and Solution App
 
-## Project: APRESIASI (Application for Prediction and Resolution of Embattlements using Smart Intelligence)
+## Project: APRESIASI (Application for Prediction and Resolution of Traffic jam using Smart Intelligence)
 
 ### Team:
 
