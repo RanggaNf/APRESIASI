@@ -6,7 +6,7 @@
 
 - Mobile Development: [RanggaNf](https://github.com/RanggaNf)
 - Machine Learning: [Ubeid02](https://github.com/Ubeid02)
-- Cloud Computing: [Pratama(s)]
+- Cloud Computing: [Pratama(https://github.com/ranggapratama25)]
 ### Description:
 
 APRESIASI is a mobile application that helps users navigate traffic congestion by:
